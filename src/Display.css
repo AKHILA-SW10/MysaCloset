@@ -1,0 +1,27 @@
+.button{
+  cursor: pointer;
+  height: 200px;
+  width: 150px;
+}
+.productImg{
+    width:auto;
+    height:100px
+}
+.desc{
+    color: brown;
+    display: inline-block;
+    width: 120px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+} 
+.priceTitle{
+    line-height: 0%;
+}
+.content{
+    font-size: xx-small;
+}
+.overall{
+    display: inline;
+    padding-inline-start: 30px;   
+}

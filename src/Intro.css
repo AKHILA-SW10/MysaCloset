@@ -1,0 +1,12 @@
+.logo{
+  display: flex;
+  color: blueviolet;
+  align-content: center;
+  justify-content: left;
+}
+.grpBtns{
+    display: flex;
+}
+.landing{
+   overflow: hidden;
+}
